@@ -1,6 +1,6 @@
 [
   {
-    "name": "hello-world",
-    "imageUri": "ACCOUNT-ID.dkr.ecr.us-east-1.amazonaws.com/actions/image-repo"
+    "name": "node-20-bookwarm",
+    "imageUri": "200324262135.dkr.ecr.ap-south-1.amazonaws.com/devops/codebuild-demo1"
   }
 ]
